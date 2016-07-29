@@ -1,0 +1,12 @@
+{
+  "name": "milligram-customizer",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "devDependencies": {
+    "milligram": "^1.1.0"
+  }
+}

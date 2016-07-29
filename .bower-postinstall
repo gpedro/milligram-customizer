@@ -1,0 +1,5 @@
+#!/bin/sh
+COMPONENTS_DIR="public/components"
+NORMALIZE_DIR=$COMPONENTS_DIR"/normalize-css"
+
+cp $NORMALIZE_DIR/normalize.css $NORMALIZE_DIR/_normalize.scss
